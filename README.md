@@ -1,2 +1,2 @@
-# number-calculator
+# Number Calculator
 Number calculator application.
